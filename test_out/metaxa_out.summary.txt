@@ -1,0 +1,90 @@
+Metaxa run started at Thu Feb 21 19:04:02 2019.
+-----------------------------------------------------------------
+Number of sequences in input file:       	100
+Sequences detected as SSU rRNA by Metaxa:	50
+  On main strand:         	50
+  On complementary strand:	0
+SSU rRNA sequences by preliminary origin:
+  Archaea:     	10
+  Bacteria:    	8
+  Eukaryota:   	10
+  Chloroplast: 	10
+  Mitochondria:	12
+  Other:       	0
+-----------------------------------------------------------------
+Number of SSU rRNA sequences to be classified by Metaxa:  	51
+Number of SSU rRNA having at least one database match:    	50
+Number of SSU rRNA successfully classified by Metaxa:     	50
+Number of uncertain classifications of SSU rRNA sequences:	0
+Total number of classifications made by Metaxa:           	50
+Number of SSU rRNA sequences assigned to each origin:
+  Archaea:     	10
+  Bacteria:    	10
+  Eukaryota:   	10
+  Chloroplast: 	10
+  Mitochondria:	10
+  Uncertain:   	0
+-----------------------------------------------------------------
+Sequences of archaeal origin:
+AB055123.1.1423.A
+AE000666.1718787.1720265.A
+AF350363.1.1448.A
+AJ270241.1.1458.A
+AY425724.1.1404.A
+CP001899.1403988.1405498.A
+FJ561282.1.1213.A
+HQ425069.1.1371.A
+JF421973.1.1474.A
+Z37156.4.1486.A
+-----------------------------------------------------------------
+Sequences of bacterial origin:
+AB509380.1.1414.B
+AM945666.1.1332.B
+AY625609.1.1460.B
+D78473.1.1436.B
+D89331.1.1518.B
+DQ660384.1.1412.B
+FJ532425.1.1439.B
+FJ808715.1.1432.B
+HQ132370.1.1209.B
+U57076.1.1476.B
+-----------------------------------------------------------------
+Sequences of eukaryote origin:
+AB111493.1.1749.E
+AB246684.1.1801.E
+AF048766.1.1761.E
+AF436006.1.1838.E
+AJ849979.1.1833.E
+AY242162.1.1703.E
+AY252252.1.1900.E
+DQ898740.1.1775.E
+EU145611.1.1820.E
+FJ713566.1.1766.E
+-----------------------------------------------------------------
+Sequences of chloroplast origin:
+AF166114.84466.85976.C
+AJ428413.101402.102892.C
+AY706946.1.1307.C
+DQ629472.1.1486.C
+EU580516.1.1451.C
+FJ002222.1.1432.C
+FJ002234.1.1429.C
+FJ719683.1.1408.C
+HQ183503.1.1491.C
+JF277116.1.1334.C
+-----------------------------------------------------------------
+Sequences of mitochondrial origin:
+AB029353.1.1725.M
+AF058677.1.1871.M
+AF161082.1.1982.M
+AF193981.1.2074.M
+AF193995.1.2039.M
+AF241700.1.1350.M
+DQ008682.1.1732.M
+DQ008700.1.1794.M
+DQ217399.9051.10495.M
+EH792211.55.1273.M
+-----------------------------------------------------------------
+Sequences of uncertain origin:
+-----------------------------------------------------------------
+Metaxa run finished at Thu Feb 21 19:08:13 2019.

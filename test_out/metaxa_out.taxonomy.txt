@@ -1,0 +1,50 @@
+AB029353.1.1725.M	Mitochondria;	100	1583	98.51
+AB055123.1.1423.A	Archaea;Euryarchaeota;Thermococci;Thermococcales;Thermococcaceae;Thermococcus;	100	1417	98.97
+AB111493.1.1749.E	Eukaryota;Fungi;Ascomycota;Pezizomycotina;Sordariomycetes;	100	1703	99.38
+AB246684.1.1801.E	Eukaryota;Rhizaria;Radiolaria;Polycystinea;Spumellaria;Ssp-05;Styptosphaera;Styptosphaera sp. 2013;	100	1801	99.65
+AB509380.1.1414.B	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;	100	1350	98.90
+AE000666.1718787.1720265.A	Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanothermobacter;	100	1408	98.78
+AF048766.1.1761.E	Eukaryota;Metazoa;Platyhelminthes;Turbellaria;Seriata;	100	1738	96.69
+AF058677.1.1871.M	Mitochondria;;;;;;Phaeoceros laevis;	100	1709	99.07
+AF161082.1.1982.M	Mitochondria;;;;;;Huperzia lucidula ;	100	1839	99.63
+AF166114.84466.85976.C	Chloroplast;;;;;;Mesostigma viride;	100	1428	99.09
+AF193981.1.2074.M	Mitochondria;	100	1962	98.83
+AF193995.1.2039.M	Mitochondria;	100	1907	99.31
+AF241700.1.1350.M	Mitochondria;	100	1268	98.54
+AF350363.1.1448.A	Archaea;Euryarchaeota;Thermococci;Thermococcales;Thermococcaceae;Thermococcus;	100	1397	98.11
+AF436006.1.1838.E	Eukaryota;Metazoa;Arthropoda;Crustacea;Malacostraca;	100	1812	98.78
+AJ270241.1.1458.A	Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;	100	1399	94.86
+AJ428413.101402.102892.C	Chloroplast;	100	1407	99.00
+AJ849979.1.1833.E	Eukaryota;Metazoa;Arthropoda;Hexapoda;Insecta;	100	1833	99.49
+AM945666.1.1332.B	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Marinobacter;	100	1332	98.67
+AY242162.1.1703.E	Eukaryota;Fungi;Ascomycota;Saccharomycotina;Saccharomycetales;Anamorphic Saccharomycetales;Candida;	100	1703	99.40
+AY252252.1.1900.E	Eukaryota;Metazoa;Arthropoda;Hexapoda;Insecta;	100	1878	99.05
+AY425724.1.1404.A	Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Haloferax;	100	1400	98.91
+AY625609.1.1460.B	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;	100	1410	79.18
+AY706946.1.1307.C	Chloroplast;	100	1307	97.62
+CP001899.1403988.1405498.A	Archaea;Euryarchaeota;Archaeoglobi;Archaeoglobales;Archaeoglobaceae;	100	1438	97.52
+D78473.1.1436.B	Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus;	100	1414	98.69
+D89331.1.1518.B	Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;	100	1446	97.33
+DQ008682.1.1732.M	Mitochondria;	100	1639	99.00
+DQ008700.1.1794.M	Mitochondria;	100	1661	99.22
+DQ217399.9051.10495.M	Mitochondria;	100	1275	97.17
+DQ629472.1.1486.C	Chloroplast;	100	1416	98.23
+DQ660384.1.1412.B	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Loktanella;Roseobacter sp. HJ105;	100	1378	98.97
+DQ898740.1.1775.E	Eukaryota;Fungi;Basidiomycota;Agaricomycotina;Agaricomycetes;Botryobasidium;Botryobasidium;	100	1737	79.51
+EH792211.55.1273.M	Mitochondria;	100	1186	97.31
+EU145611.1.1820.E	Eukaryota;Metazoa;Arthropoda;Hexapoda;Insecta;	100	1815	99.55
+EU580516.1.1451.C	Chloroplast;	100	1405	98.16
+FJ002222.1.1432.C	Chloroplast;	100	1402	98.52
+FJ002234.1.1429.C	Chloroplast;	100	1400	98.48
+FJ532425.1.1439.B	Bacteria;Actinobacteria;Actinobacteria;Streptosporangiales;Nocardiopsaceae;Nocardiopsis;	100	1429	99.08
+FJ561282.1.1213.A	Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halorubrum;	100	1201	97.61
+FJ713566.1.1766.E	Eukaryota;Metazoa;Arthropoda;Crustacea;Maxillopoda;	100	1719	98.26
+FJ719683.1.1408.C	Chloroplast;	100	1376	97.81
+FJ808715.1.1432.B	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Anoxybacillus;	100	1406	98.75
+HQ132370.1.1209.B	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;	100	1209	98.08
+HQ183503.1.1491.C	Chloroplast;	100	1407	98.49
+HQ425069.1.1371.A	Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;Halobellus;archaeon RC18;	100	1371	98.96
+JF277116.1.1334.C	Chloroplast;	100	1334	98.73
+JF421973.1.1474.A	Archaea;Euryarchaeota;Halobacteria;Halobacteriales;Halobacteriaceae;	100	1401	98.91
+U57076.1.1476.B	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Mannheimia;	100	1448	98.30
+Z37156.4.1486.A	Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanothermobacter;	100	1410	98.98
