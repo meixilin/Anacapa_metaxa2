@@ -21,13 +21,13 @@ source /u/local/Modules/default/init/bash
 # Richardson, Rodney T., et al. "A reference cytochrome c oxidase subunit I database curated for hierarchical classification of arthropod metabarcoding data." PeerJ 6 (2018): e5126.
 
 # Zeale et al. reported amplicon length, EXCLUDING PRIMER to be 157 bp
-# Following cruxp_db specification: +/- 100 bp from 157
+# Following cruxp_db specification: +/- 100 bp from 157 + 30(primer_f) + 24 (primer_r)
 
 PRIMER=CO1_Zeale
 PRIMER_F=AGATATTGGAACWTTATATTTTATTTTTGG
 PRIMER_R=WACTAATCAATTWCCAAATCCTCC
-MIN_LEN=57
-MAX_LEN=257
+MIN_LEN=111
+MAX_LEN=311
 
 WORK=/u/project/rwayne/meixilin/Anacapa_files/revision_feb
 CRUX_DB=/u/project/rwayne/software/Crux/crux_db
