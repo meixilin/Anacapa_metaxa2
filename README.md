@@ -11,7 +11,7 @@ Notes:
 run these commands in a terminal to set up the environment
 
 ```bash
-WORK=/u/project/rwayne/meixilin/Anacapa_metaxa2
+WORK=/u/project/rwayne/meixilin/Anacapa_files/Anacapa_metaxa2
 
 module load mafft/7.222
 
@@ -19,3 +19,7 @@ export PATH="$PATH:$WORK"
 export PATH="$PATH:${WORK}/blast-2.2.26/bin"
 export PATH="$PATH:${WORK}/hmmer-3.2.1/bin"
 ```
+
+# Important notes
+
+> Hi Meixi, For metaxa2_dbb there is an option -r that is pretty important. This option is to select a sequence that is used as the representative sequence to define the start and end of the barcoding region. If you don't define this option, the program will just pick the first sequence in the reference fasta. Otherwise the options for the database build are pretty straightforward. Let me know if you have any questions. -Lenore
